@@ -32,6 +32,6 @@
     "request-promise": "^4.2.5",
     "sequelize": "^5.21.7",
     "sharp": "^0.25.2",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.4.0"
   }
 }
